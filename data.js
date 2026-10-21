@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-trincea-1",
-      "name": "Trincea 1",
+      "id": "0-vai-alla-trincea",
+      "name": "Vai alla trincea",
       "levels": [
         {
           "tileSize": 256,
@@ -20,7 +20,14 @@ var APP_DATA = {
         "pitch": -0.17887767660884535,
         "fov": 1.3477036756231675
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": 1.0218266525284196,
+          "pitch": -0.5217844082901735,
+          "rotation": 7.853981633974483,
+          "target": "1-vai-al-villaggio"
+        }
+      ],
       "infoHotspots": [
         {
           "yaw": -1.1100514438767206,
@@ -65,6 +72,36 @@ var APP_DATA = {
           "text": "Mutilati, dolore, malattie, piede da trincea, fame, caldo e freddo"
         }
       ]
+    },
+    {
+      "id": "1-vai-al-villaggio",
+      "name": "Vai al villaggio",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        }
+      ],
+      "faceSize": 443.5,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.2426827603355033,
+          "pitch": -0.40235908584231694,
+          "rotation": 7.853981633974483,
+          "target": "0-vai-alla-trincea"
+        }
+      ],
+      "infoHotspots": []
     }
   ],
   "name": "Trincea della Grande Guerra",
@@ -72,6 +109,6 @@ var APP_DATA = {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
     "fullscreenButton": true,
-    "viewControlButtons": true
+    "viewControlButtons": false
   }
 };
