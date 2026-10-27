@@ -105,7 +105,7 @@ var APP_DATA = {
           "yaw": -1.6710995254011465,
           "pitch": 0.6168402760326988,
           "title": "Condizioni fisiche",
-          "text": "La vita in trincea metteva a dura prova il corpo dei soldati. Ferite, mutilazioni, fame, sete, freddo, caldo e malattie erano all'ordine del giorno. I gas tossici rendevano ancora più difficili le attività quotidiane, mentre molti soffrivano di piede da trincea a causa dell'umidità e del fango.<div><br></div><div style='text-align:center;'>img/gas.jpg</div><div><br></div><div style='text-align:center;'><img src='img/piede_trincea.jpg' style='max-width:100%;'></div>"
+          "text": "La vita in trincea metteva a dura prova il corpo dei soldati. Ferite, mutilazioni, fame, sete, freddo, caldo e malattie erano all'ordine del giorno. I gas tossici rendevano ancora più difficili le attività quotidiane, mentre molti soffrivano di piede da trincea a causa dell'umidità e del fango.<div><br></div><div style='text-align:center;'><img src='img/gas.jpg' style='max-width:100%;'></div><div><br></div><div style='text-align:center;'><img src='img/piede_trincea.jpg' style='max-width:100%;'></div>"
         },
         {
           "yaw": -2.504993114453516,
