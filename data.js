@@ -33,7 +33,7 @@ var APP_DATA = {
           "yaw": -1.1100514438767206,
           "pitch": 0.8539337754602876,
           "title": "Condizioni psicologiche",
-          "text": "La vita in trincea era molto dura anche dal punto di vista psicologico. I soldati vivevano nella paura costante di essere feriti o uccisi e dovevano sopportare scene traumatiche, come la vista di feriti e cadaveri. Per resistere trovavano forza di volontà nell'amicizia e nell'aiuto reciproco tra commilitoni. Allo stesso tempo provavano tristezza, nostalgia di casa, malinconia e talvolta senso di colpa per essere sopravvissuti mentre altri morivano. Alcuni sviluppavano rabbia verso i politici che avevano deciso la guerra, mentre altri finivano per abituarsi alla violenza e desiderare la vendetta contro il nemico. Per molti soldati i traumi non terminarono con la fine del conflitto e continuarono a causare problemi psicologici anche negli anni successivi (Shell Shock).<div><br></div><div style='text-align:center;'><img src='img/shell_shock.jpg' style='max-width:100%;'></div>"
+          "text": "La vita in trincea era molto dura anche dal punto di vista psicologico. I soldati vivevano nella paura costante di essere feriti o uccisi e dovevano sopportare scene traumatiche, come la vista di feriti e cadaveri. Per resistere trovavano forza di volontà nell'amicizia e nell'aiuto reciproco tra commilitoni. Allo stesso tempo provavano tristezza, nostalgia di casa, malinconia e talvolta senso di colpa per essere sopravvissuti mentre altri morivano. Alcuni sviluppavano rabbia verso i politici che avevano deciso la guerra, mentre altri finivano per abituarsi alla violenza e desiderare la vendetta contro il nemico. Per molti soldati i traumi non terminarono con la fine del conflitto e continuarono a causare problemi psicologici anche negli anni successivi (Shell Shock).<div><br></div><div style='text-align:center;'><img src='img/shell_shock.jpg' style='max-width:100%;'></div><div><br></div><div style='text-align:center;'><iframe width='100%' height='315' src='https://www.youtube.com/embed/X-elmAeX_4U' title='YouTube video player' frameborder='0' allowfullscreen></iframe></div>"
         },
         {
           "yaw": 2.4675039041589404,
@@ -45,31 +45,31 @@ var APP_DATA = {
           "yaw": -1.929830163453989,
           "pitch": 0.39429983896684817,
           "title": "Lettere dal fronte",
-          "text": "La vita in trincea portava nei soldati malinconia e nostalgia di casa. Le lettere erano un modo per mantenere un legame con i propri cari. Per i soldati, ricevere una lettera da casa era uno dei momenti più attesi. Se i bombardamenti lo permettevano, la posta arrivava quasi ogni giorno: le lettere viaggiavano in treno fino alle retrovie, poi su camion o carri trainati da cavalli e infine venivano portate a piedi fino alle trincee. I militari potevano scrivere gratuitamente grazie alla franchigia postale. Poiché molti soldati non sapevano leggere o scrivere, i compagni o gli ufficiali li aiutavano a leggere le lettere ricevute o a scriverne sotto dettatura. Le lettere servivano soprattutto a mantenere il contatto con la famiglia e ad alleviare la nostalgia e la tristezza della vita al fronte.<div><br></div><div style='text-align:center;'><img src='img/lettere.jpg' style='max-width:100%;'></div>"
+          "text": "La vita in trincea portava nei soldati malinconia e nostalgia di casa. Le lettere erano un modo per mantenere un legame con i propri cari. Per i soldati, ricevere una lettera da casa era uno dei momenti più attesi. Se i bombardamenti lo permettevano, la posta arrivava quasi ogni giorno: le lettere viaggiavano in treno fino alle retrovie, poi su camion o carri trainati da cavalli e infine venivano portate a piedi fino alle trincee. I militari potevano scrivere gratuitamente grazie alla franchigia postale. Poiché molti soldati non sapevano leggere o scrivere, i compagni o gli ufficiali li aiutavano a leggere le lettere ricevute o a scriverne sotto dettatura. Le lettere servivano soprattutto a mantenere il contatto con la famiglia e ad alleviare la nostalgia e la tristezza della vita al fronte.</div><div><br></div><div>L'immagine mostra un soldato che scrive una lettera (Francia, 1918).<div><br></div><div style='text-align:center;'><img src='img/lettere.jpg' style='max-width:100%;'></div>"
         },
         {
           "yaw": -0.009267499768867538,
           "pitch": -0.43850229332950796,
           "title": "La leggenda del Piave / Verdun! On ne passe pas",
-          "text": "\"La leggenda del Piave\" è un brano patriottico scritto nel giugno del 1918 da Giovanni Gaeta: l'intenzione era di sollevare il morale delle truppe italiane dopo la sconfitta a Caporetto.<div><br></div><div>\"Verdun! On ne passe pas\" è invece un brano francese che celebra la resistenza contro i tedeschi nella battaglia di Verdun, con lo slogan \"On ne passe pas\" (Non si passa).</div>"
+          "text": "\"La leggenda del Piave\" è un brano patriottico scritto nel giugno del 1918 da Giovanni Gaeta: l'intenzione era di sollevare il morale delle truppe italiane dopo la sconfitta a Caporetto.<div><br></div><div>\"Verdun! On ne passe pas\" è invece un brano francese che celebra la resistenza contro i tedeschi nella battaglia di Verdun, con lo slogan \"On ne passe pas\" (Non si passa).</div><div><br></div><div><b>La leggenda del Piave</b></div><audio controls style='width:100%;'><source src='audio/Piave.mp3' type='audio/mpeg'></audio><div><br></div><div><b>Verdun ! On ne passe pas</b></div><audio controls style='width:100%;'><source src='audio/Verdun.mp3' type='audio/mpeg'></audio>"
         },
         {
           "yaw": -2.859516711189503,
           "pitch": 0.6168998429559309,
           "title": "Rifugi in trincea",
-          "text": "Questo rifugio sotterraneo proteggeva i soldati dai bombardamenti nemici. Qui potevano riposare per qualche ora, ma le condizioni erano spesso difficili a causa dell'umidità, del freddo e della mancanza di spazio."
+          "text": "Questo rifugio sotterraneo proteggeva i soldati dai bombardamenti nemici. Qui potevano riposare per qualche ora, ma le condizioni erano spesso difficili a causa dell'umidità, del freddo e della mancanza di spazio. Erano spesso presenti anche insetti e topi."
         },
         {
           "yaw": 2.3172299806786576,
           "pitch": 0.22947193364135643,
           "title": "Feriti",
-          "text": "I feriti venivano evacuati dalle trincee e portati in piccoli ospedali da campo che si trovavano più lontano dalla linea del fronte. In trincea c'erano posti di medicazione dove medici e portaferiti prestavano i primissimi soccorsi (bendaggi, lacci emostatici,...)<div><br></div><div style='text-align:center;'><img src='img/feriti.jpg' style='max-width:100%;'></div>"
+          "text": "I feriti venivano evacuati dalle trincee e portati in piccoli ospedali da campo che si trovavano più lontano dalla linea del fronte. In trincea c'erano posti di medicazione dove medici e portaferiti prestavano i primissimi soccorsi (bendaggi, lacci emostatici,...)</div><div><br></div><div>L'immagine mostra un fante di marina che riceve soccorso in trincea (Francia, 1918).</div><div style='text-align:center;'><img src='img/feriti.jpg' style='max-width:100%;'></div>"
         },
         {
           "yaw": -0.12038454317748659,
           "pitch": 0.48653909407614293,
           "title": "Soldati deceduti",
-          "text": "Durante la Prima guerra mondiale morirono tra gli 8,5 e i 9 milioni di soldati.&nbsp;Molti militari persero la vita sotto il fuoco dell'artiglieria, che fu la principale causa di morte al fronte. Altri morirono per malattie, infezioni, gas tossici o per le durissime condizioni di vita nelle trincee. La Grande Guerra è ricordata come uno dei conflitti più sanguinosi della storia.<div><br></div><div style='text-align:center;'>img/morti1.jpg</div><div><br></div><div style='text-align:center;'><img src='img/morti1.jpg' style='max-width:100%;'><img src='img/morti2.jpg' style='max-width:100%;'></div>"
+          "text": "Durante la Prima guerra mondiale morirono tra gli 8,5 e i 9 milioni di soldati.&nbsp;Molti militari persero la vita sotto il fuoco dell'artiglieria, che fu la principale causa di morte al fronte. Altri morirono per malattie, infezioni, gas tossici o per le durissime condizioni di vita nelle trincee. La Grande Guerra è ricordata come uno dei conflitti più sanguinosi della storia.<div><br></div><div style='text-align:center;'></div><div><br></div><div style='text-align:center;'><div><br></div><img src='img/morti1.jpg' style='max-width:100%;'><img src='img/morti2.jpg' style='max-width:100%;'></div>"
         },
         {
           "yaw": -0.3896303094090765,
@@ -105,13 +105,13 @@ var APP_DATA = {
           "yaw": -1.6710995254011465,
           "pitch": 0.6168402760326988,
           "title": "Condizioni fisiche",
-          "text": "La vita in trincea metteva a dura prova il corpo dei soldati. Ferite, mutilazioni, fame, sete, freddo, caldo e malattie erano all'ordine del giorno. I gas tossici rendevano ancora più difficili le attività quotidiane, mentre molti soffrivano di piede da trincea a causa dell'umidità e del fango.<div><br></div><div style='text-align:center;'><img src='img/gas.jpg' style='max-width:100%;'></div><div><br></div><div style='text-align:center;'><img src='img/piede_trincea.jpg' style='max-width:100%;'></div>"
+          "text": "La vita in trincea metteva a dura prova il corpo dei soldati. Ferite, mutilazioni, fame, sete, freddo, caldo e malattie erano all'ordine del giorno. I gas tossici rendevano ancora più difficili le attività quotidiane, mentre molti soffrivano di piede da trincea a causa dell'umidità e del fango.<div><br></div><div>LLa prima immagine mostra soldati britannici con maschere antigas rudimentali (primavera 1915). La seconda mostra dei soldati che stanno controllando i piedi per prevenire il "piede da trincea" (fronte occidentale, 1916-17).</div><div><br></div><div style='text-align:center;'><img src='img/gas.jpg' style='max-width:100%;'></div><div><br></div><div style='text-align:center;'><img src='img/piede_trincea.jpg' style='max-width:100%;'></div>"
         },
         {
           "yaw": -2.504993114453516,
           "pitch": 0.0643926020066452,
           "title": "Trincee",
-          "text": "Le trincee erano fossati scavati nel terreno e rinforzati con legno e sacchi di sabbia. Venivano costruite a zig-zag per offrire una maggiore protezione dai bombardamenti e dal fuoco delle mitragliatrici. Qui i soldati vivevano, combattevano e attendevano gli ordini.<div><br></div><div>Video di un assalto alla trincea, tratto dal film War Horse (2011)</div>"
+          "text": "Le trincee erano fossati scavati nel terreno e rinforzati con legno e sacchi di sabbia. Venivano costruite a zig-zag per offrire una maggiore protezione dai bombardamenti e dal fuoco delle mitragliatrici. Qui i soldati vivevano, combattevano e attendevano gli ordini.<div><br></div><div>Video di un assalto alla trincea, tratto dal film War Horse (2011)</div><div><br></div><video controls style='width:100%; max-width:600px;'><source src='video/Assalto.mp4' type='video/mp4'></video>"
         },
         {
           "yaw": 1.289346609305273,
@@ -129,7 +129,7 @@ var APP_DATA = {
           "yaw": -2.487849460861508,
           "pitch": 0.9540640280353543,
           "title": "Passerelle di legno",
-          "text": "Sul fondo delle trincee venivano posate passerelle di legno per limitare il contatto con il fango e l'acqua. Nonostante questo accorgimento, molti soldati trascorrevano giorni con i piedi bagnati e rischiavano di sviluppare il piede da trincea, una dolorosa malattia causata dall'umidità.<div><br></div><div style='text-align:center;'><img src='img/fango.jpg' style='max-width:100%;'></div>"
+          "text": "Sul fondo delle trincee venivano posate passerelle di legno per limitare il contatto con il fango e l'acqua. Nonostante questo accorgimento, molti soldati trascorrevano giorni con i piedi bagnati e rischiavano di sviluppare il piede da trincea, una dolorosa malattia causata dall'umidità.<div><br></div><div>L'immagine mostra l'ufficiale australiano Charles E.W. Bean nel fango in una trincea durante la Battaglia della Somme (inverno 1916-17).<div><br></div><div style='text-align:center;'><img src='img/fango.jpg' style='max-width:100%;'></div>"
         },
         {
           "yaw": 0.637479554945493,
@@ -172,7 +172,7 @@ var APP_DATA = {
           "yaw": 0.09251438571027393,
           "pitch": 0.06444705144333795,
           "title": "Ospedale da campo",
-          "text": "<div>Negli ospedali da campo arrivavano continuamente soldati feriti dal fuoco dell'artiglieria, dalle mitragliatrici e dai gas. I medici operavano spesso in condizioni precarie e con mezzi limitati. Tra gli interventi più frequenti vi erano le amputazioni di braccia o gambe gravemente lesionate, necessarie per salvare la vita dei pazienti.</div><div><br></div><div style='text-align:center;'><img src='img/ospedale.jpg' style='max-width:100%;'></div>"
+          "text": "<div>Negli ospedali da campo arrivavano continuamente soldati feriti dal fuoco dell'artiglieria, dalle mitragliatrici e dai gas. I medici operavano spesso in condizioni precarie e con mezzi limitati. Tra gli interventi più frequenti vi erano le amputazioni di braccia o gambe gravemente lesionate, necessarie per salvare la vita dei pazienti.</div><div><br></div><div>L'immagine mostra un posto di medicazione dell'Esercito Italiano (fronte italiano, data incerta, 1915-1918).<div><br></div><div style='text-align:center;'><img src='img/ospedale.jpg' style='max-width:100%;'></div>"
         },
         {
           "yaw": -1.0455893913536816,
@@ -196,13 +196,13 @@ var APP_DATA = {
           "yaw": -2.7521475456750615,
           "pitch": -0.01623366234457535,
           "title": "Scuole e bambini",
-          "text": "Anche i bambini subirono le conseguenze della guerra. In molte zone le scuole chiusero, furono bombardate o utilizzate dall'esercito, e molti ragazzi dovettero lasciare gli studi per aiutare le proprie famiglie.<div>Molti bambini restarono orfani e furono accolti negli orfanotrofi.</div><div><br></div><div style='text-align:center;'><img src='img/orfanotrofio.jpg' style='max-width:100%;'></div>"
+          "text": "Anche i bambini subirono le conseguenze della guerra. In molte zone le scuole chiusero, furono bombardate o utilizzate dall'esercito, e molti ragazzi dovettero lasciare gli studi per aiutare le proprie famiglie.<div>Molti bambini restarono orfani e furono accolti negli orfanotrofi.</div><div><br></div><div>Sezione femminile dell'Istituto Friulano Orfani di Guerra a Rubignacco (Friuli, probabilmente inizio 1920).<div><br></div><div style='text-align:center;'><img src='img/orfanotrofio.jpg' style='max-width:100%;'></div>"
         },
         {
           "yaw": -2.399954081654382,
           "pitch": 0.5915250272898689,
           "title": "Società nei villaggi e nelle città",
-          "text": "Con la partenza degli uomini per il fronte, nei villaggi rimasero soprattutto donne, bambini e anziani. Le donne dovettero occuparsi dei lavori agricoli, della famiglia e della gestione delle attività quotidiane. Spesso sostituivano gli uomini nel lavoro nelle fabbriche. Anche i bambini furono spesso coinvolti nell'aiutare a casa o nei campi.<div><br></div><div style='text-align:center;'><img src='img/donne.jpg' style='max-width:100%;'></div>"
+          "text": "Con la partenza degli uomini per il fronte, nei villaggi rimasero soprattutto donne, bambini e anziani. Le donne dovettero occuparsi dei lavori agricoli, della famiglia e della gestione delle attività quotidiane. Spesso sostituivano gli uomini nel lavoro nelle fabbriche. Anche i bambini furono spesso coinvolti nell'aiutare a casa o nei campi.<div><br></div><div>Operaie nelle fabbriche di munizioni (Germania, 1917).<div><br></div><div style='text-align:center;'><img src='img/donne.jpg' style='max-width:100%;'></div>"
         },
         {
           "yaw": 3.019282903648886,
@@ -214,7 +214,7 @@ var APP_DATA = {
           "yaw": -0.5577251847768281,
           "pitch": -0.0006652650892924328,
           "title": "Negozi",
-          "text": "La guerra rese più difficile procurarsi il cibo. In molte zone i prodotti scarseggiavano perché i trasporti erano interrotti e molti contadini erano stati richiamati al fronte. Le famiglie dovevano spesso fare economia e affrontare periodi di scarsità.<div><br></div><div style='text-align:center;'><img src='img/fame.jpg' style='max-width:100%;'></div>"
+          "text": "La guerra rese più difficile procurarsi il cibo. In molte zone i prodotti scarseggiavano perché i trasporti erano interrotti e molti contadini erano stati richiamati al fronte. Le famiglie dovevano spesso fare economia e affrontare periodi di scarsità.<div><br><div>L'immagine mostra la prima mensa comunitaria della Salvation Army (Esercito della Salvezza) a Bermondsey (Londra, 1917).<div><br></div></div><div style='text-align:center;'><img src='img/fame.jpg' style='max-width:100%;'></div>"
         },
         {
           "yaw": 1.336923532575737,
@@ -238,7 +238,7 @@ var APP_DATA = {
           "yaw": -1.2451544219819972,
           "pitch": -0.8448957791452614,
           "title": "Come è scoppiata la Grande Guerra? (Breve cronologia)",
-          "text": "28 giugno 1914: assassinio a Sarajevo dell'arciduca Francesco Ferdinando d'Asburgo e sua moglie.<div>28 luglio 1914: L'Austria-Ungheria dichiara guerra alla Serbia, innescando il sistema delle alleanze.</div><div>1-4 agosto 1914: La Germania dichiara guerra alla Russia e alla Francia; l'invasione tedesca del Belgio porta la Gran Bretagna nel conflitto.</div><div>1 settembre 1914: il piano tedesco di guerra lampo (prima battaglia della Marna) fallisce e inizia la lunga e sanguinosa guerra di trincea.</div><div><br></div><div style='text-align:center;'><img src='img/arciduca.jpg' style='max-width:100%;'></div>"
+          "text": "28 giugno 1914: assassinio a Sarajevo dell'arciduca Francesco Ferdinando d'Asburgo e sua moglie.<div>28 luglio 1914: L'Austria-Ungheria dichiara guerra alla Serbia, innescando il sistema delle alleanze.</div><div>1-4 agosto 1914: La Germania dichiara guerra alla Russia e alla Francia; l'invasione tedesca del Belgio porta la Gran Bretagna nel conflitto.</div><div>1 settembre 1914: il piano tedesco di guerra lampo (prima battaglia della Marna) fallisce e inizia la lunga e sanguinosa guerra di trincea.</div><div><br></div><div>Illustrazione apparsa il 12 luglio 1914 nel supplemento illustrato del quotidiano francese Le Petit Journal, immortalante l'assassinio dell'Arciduca e di sua moglie.</div><div><br></div><div style='text-align:center;'><img src='img/arciduca.jpg' style='max-width:100%;'></div>"
         }
       ]
     }
