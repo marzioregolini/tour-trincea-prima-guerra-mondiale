@@ -33,7 +33,7 @@ var APP_DATA = {
           "yaw": -1.1100514438767206,
           "pitch": 0.8539337754602876,
           "title": "Condizioni psicologiche",
-          "text": "La vita in trincea era molto dura anche dal punto di vista psicologico. I soldati vivevano nella paura costante di essere feriti o uccisi e dovevano sopportare scene traumatiche, come la vista di feriti e cadaveri. Per resistere trovavano forza di volontà nell'amicizia e nell'aiuto reciproco tra commilitoni. Allo stesso tempo provavano tristezza, nostalgia di casa, malinconia e talvolta senso di colpa per essere sopravvissuti mentre altri morivano. Alcuni sviluppavano rabbia verso i politici che avevano deciso la guerra, mentre altri finivano per abituarsi alla violenza e desiderare la vendetta contro il nemico. Per molti soldati i traumi non terminarono con la fine del conflitto e continuarono a causare problemi psicologici anche negli anni successivi (Shell Shock).<div><br></div><div style='text-align:center;'><img src='img/shell_shock.jpg' style='max-width:100%;'></div><div><br></div><div style='text-align:center;'><iframe width="100%" height="315" src="https://www.youtube.com/embed/X-elmAeX_4U" title="YouTube video player" frameborder="0" allowfullscreen></iframe></div>"
+          "text": "La vita in trincea era molto dura anche dal punto di vista psicologico. I soldati vivevano nella paura costante di essere feriti o uccisi e dovevano sopportare scene traumatiche, come la vista di feriti e cadaveri. Per resistere trovavano forza di volontà nell'amicizia e nell'aiuto reciproco tra commilitoni. Allo stesso tempo provavano tristezza, nostalgia di casa, malinconia e talvolta senso di colpa per essere sopravvissuti mentre altri morivano. Alcuni sviluppavano rabbia verso i politici che avevano deciso la guerra, mentre altri finivano per abituarsi alla violenza e desiderare la vendetta contro il nemico. Per molti soldati i traumi non terminarono con la fine del conflitto e continuarono a causare problemi psicologici anche negli anni successivi (Shell Shock).<div><br></div><div style='text-align:center;'><img src='img/shell_shock.jpg' style='max-width:100%;'></div>"
         },
         {
           "yaw": 2.4675039041589404,
@@ -63,7 +63,7 @@ var APP_DATA = {
           "yaw": 2.3172299806786576,
           "pitch": 0.22947193364135643,
           "title": "Feriti",
-          "text": "I feriti venivano evacuati dalle trincee e portati in piccoli ospedali da campo che si trovavano più lontano dalla linea del fronte. In trincea c'erano posti di medicazione dove medici e portaferiti prestavano i primissimi soccorsi (bendaggi, lacci emostatici,...)</div><div><br></div><div>L'immagine mostra un fante di marina che riceve soccorso in trincea (Francia, 1918).</div><div style='text-align:center;'><img src='img/feriti.jpg' style='max-width:100%;'></div>"
+          "text": "I feriti venivano evacuati dalle trincee e portati in piccoli ospedali da campo che si trovavano più lontano dalla linea del fronte. In trincea c'erano posti di medicazione dove medici e portaferiti prestavano i primissimi soccorsi (bendaggi, lacci emostatici,...)<div><br></div><div>L'immagine mostra un fante di marina che riceve soccorso in trincea (Francia, 1918).</div><div style='text-align:center;'><img src='img/feriti.jpg' style='max-width:100%;'></div>"
         },
         {
           "yaw": -0.12038454317748659,
@@ -105,7 +105,7 @@ var APP_DATA = {
           "yaw": -1.6710995254011465,
           "pitch": 0.6168402760326988,
           "title": "Condizioni fisiche",
-          "text": "La vita in trincea metteva a dura prova il corpo dei soldati. Ferite, mutilazioni, fame, sete, freddo, caldo e malattie erano all'ordine del giorno. I gas tossici rendevano ancora più difficili le attività quotidiane, mentre molti soffrivano di piede da trincea a causa dell'umidità e del fango.<div><br></div><div>LLa prima immagine mostra soldati britannici con maschere antigas rudimentali (primavera 1915). La seconda mostra dei soldati che stanno controllando i piedi per prevenire il "piede da trincea" (fronte occidentale, 1916-17).</div><div><br></div><div style='text-align:center;'><img src='img/gas.jpg' style='max-width:100%;'></div><div><br></div><div style='text-align:center;'><img src='img/piede_trincea.jpg' style='max-width:100%;'></div>"
+          "text": "La vita in trincea metteva a dura prova il corpo dei soldati. Ferite, mutilazioni, fame, sete, freddo, caldo e malattie erano all'ordine del giorno. I gas tossici rendevano ancora più difficili le attività quotidiane, mentre molti soffrivano di piede da trincea a causa dell'umidità e del fango.<div><br></div><div>LLa prima immagine mostra soldati britannici con maschere antigas rudimentali (primavera 1915). La seconda mostra dei soldati che stanno controllando i piedi per prevenire il piede da trincea (fronte occidentale, 1916-17).</div><div><br></div><div style='text-align:center;'><img src='img/gas.jpg' style='max-width:100%;'></div><div><br></div><div style='text-align:center;'><img src='img/piede_trincea.jpg' style='max-width:100%;'></div>"
         },
         {
           "yaw": -2.504993114453516,
