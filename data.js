@@ -45,7 +45,7 @@ var APP_DATA = {
           "yaw": -1.929830163453989,
           "pitch": 0.39429983896684817,
           "title": "Lettere dal fronte",
-          "text": "La vita in trincea portava nei soldati malinconia e nostalgia di casa. Le lettere erano un modo per mantenere un legame con i propri cari. Per i soldati, ricevere una lettera da casa era uno dei momenti più attesi. Se i bombardamenti lo permettevano, la posta arrivava quasi ogni giorno: le lettere viaggiavano in treno fino alle retrovie, poi su camion o carri trainati da cavalli e infine venivano portate a piedi fino alle trincee. I militari potevano scrivere gratuitamente grazie alla franchigia postale. Poiché molti soldati non sapevano leggere o scrivere, i compagni o gli ufficiali li aiutavano a leggere le lettere ricevute o a scriverne sotto dettatura. Le lettere servivano soprattutto a mantenere il contatto con la famiglia e ad alleviare la nostalgia e la tristezza della vita al fronte.</div><div><br></div><div>L'immagine mostra un soldato che scrive una lettera (Francia, 1918).<div><br></div><div style='text-align:center;'><img src='img/lettere.jpg' style='max-width:100%;'></div>"
+          "text": "La vita in trincea portava nei soldati malinconia e nostalgia di casa. Le lettere erano un modo per mantenere un legame con i propri cari. Per i soldati, ricevere una lettera da casa era uno dei momenti più attesi. Se i bombardamenti lo permettevano, la posta arrivava quasi ogni giorno: le lettere viaggiavano in treno fino alle retrovie, poi su camion o carri trainati da cavalli e infine venivano portate a piedi fino alle trincee. I militari potevano scrivere gratuitamente grazie alla franchigia postale. Poiché molti soldati non sapevano leggere o scrivere, i compagni o gli ufficiali li aiutavano a leggere le lettere ricevute o a scriverne sotto dettatura. Le lettere servivano soprattutto a mantenere il contatto con la famiglia e ad alleviare la nostalgia e la tristezza della vita al fronte.</div><div><br></div><div>L'immagine mostra un soldato che scrive una lettera (Francia, 1918).</div><div><br></div><div style='text-align:center;'><img src='img/lettere.jpg' style='max-width:100%;'></div>"
         },
         {
           "yaw": -0.009267499768867538,
@@ -129,7 +129,7 @@ var APP_DATA = {
           "yaw": -2.487849460861508,
           "pitch": 0.9540640280353543,
           "title": "Passerelle di legno",
-          "text": "Sul fondo delle trincee venivano posate passerelle di legno per limitare il contatto con il fango e l'acqua. Nonostante questo accorgimento, molti soldati trascorrevano giorni con i piedi bagnati e rischiavano di sviluppare il piede da trincea, una dolorosa malattia causata dall'umidità.<div><br></div><div>L'immagine mostra l'ufficiale australiano Charles E.W. Bean nel fango in una trincea durante la Battaglia della Somme (inverno 1916-17).<div><br></div><div style='text-align:center;'><img src='img/fango.jpg' style='max-width:100%;'></div>"
+          "text": "Sul fondo delle trincee venivano posate passerelle di legno per limitare il contatto con il fango e l'acqua. Nonostante questo accorgimento, molti soldati trascorrevano giorni con i piedi bagnati e rischiavano di sviluppare il piede da trincea, una dolorosa malattia causata dall'umidità.<div><br></div><div>L'immagine mostra l'ufficiale australiano Charles E.W. Bean nel fango in una trincea durante la Battaglia della Somme (inverno 1916-17).</div><div><br></div><div style='text-align:center;'><img src='img/fango.jpg' style='max-width:100%;'></div>"
         },
         {
           "yaw": 0.637479554945493,
@@ -172,7 +172,7 @@ var APP_DATA = {
           "yaw": 0.09251438571027393,
           "pitch": 0.06444705144333795,
           "title": "Ospedale da campo",
-          "text": "<div>Negli ospedali da campo arrivavano continuamente soldati feriti dal fuoco dell'artiglieria, dalle mitragliatrici e dai gas. I medici operavano spesso in condizioni precarie e con mezzi limitati. Tra gli interventi più frequenti vi erano le amputazioni di braccia o gambe gravemente lesionate, necessarie per salvare la vita dei pazienti.</div><div><br></div><div>L'immagine mostra un posto di medicazione dell'Esercito Italiano (fronte italiano, data incerta, 1915-1918).<div><br></div><div style='text-align:center;'><img src='img/ospedale.jpg' style='max-width:100%;'></div>"
+          "text": "<div>Negli ospedali da campo arrivavano continuamente soldati feriti dal fuoco dell'artiglieria, dalle mitragliatrici e dai gas. I medici operavano spesso in condizioni precarie e con mezzi limitati. Tra gli interventi più frequenti vi erano le amputazioni di braccia o gambe gravemente lesionate, necessarie per salvare la vita dei pazienti.</div><div><br></div><div>L'immagine mostra un posto di medicazione dell'Esercito Italiano (fronte italiano, data incerta, 1915-1918).</div><div><br></div><div style='text-align:center;'><img src='img/ospedale.jpg' style='max-width:100%;'></div>"
         },
         {
           "yaw": -1.0455893913536816,
@@ -196,13 +196,13 @@ var APP_DATA = {
           "yaw": -2.7521475456750615,
           "pitch": -0.01623366234457535,
           "title": "Scuole e bambini",
-          "text": "Anche i bambini subirono le conseguenze della guerra. In molte zone le scuole chiusero, furono bombardate o utilizzate dall'esercito, e molti ragazzi dovettero lasciare gli studi per aiutare le proprie famiglie.<div>Molti bambini restarono orfani e furono accolti negli orfanotrofi.</div><div><br></div><div>Sezione femminile dell'Istituto Friulano Orfani di Guerra a Rubignacco (Friuli, probabilmente inizio 1920).<div><br></div><div style='text-align:center;'><img src='img/orfanotrofio.jpg' style='max-width:100%;'></div>"
+          "text": "Anche i bambini subirono le conseguenze della guerra. In molte zone le scuole chiusero, furono bombardate o utilizzate dall'esercito, e molti ragazzi dovettero lasciare gli studi per aiutare le proprie famiglie.<div>Molti bambini restarono orfani e furono accolti negli orfanotrofi.</div><div><br></div><div>Sezione femminile dell'Istituto Friulano Orfani di Guerra a Rubignacco (Friuli, probabilmente inizio 1920).</div><div><br></div><div style='text-align:center;'><img src='img/orfanotrofio.jpg' style='max-width:100%;'></div>"
         },
         {
           "yaw": -2.399954081654382,
           "pitch": 0.5915250272898689,
           "title": "Società nei villaggi e nelle città",
-          "text": "Con la partenza degli uomini per il fronte, nei villaggi rimasero soprattutto donne, bambini e anziani. Le donne dovettero occuparsi dei lavori agricoli, della famiglia e della gestione delle attività quotidiane. Spesso sostituivano gli uomini nel lavoro nelle fabbriche. Anche i bambini furono spesso coinvolti nell'aiutare a casa o nei campi.<div><br></div><div>Operaie nelle fabbriche di munizioni (Germania, 1917).<div><br></div><div style='text-align:center;'><img src='img/donne.jpg' style='max-width:100%;'></div>"
+          "text": "Con la partenza degli uomini per il fronte, nei villaggi rimasero soprattutto donne, bambini e anziani. Le donne dovettero occuparsi dei lavori agricoli, della famiglia e della gestione delle attività quotidiane. Spesso sostituivano gli uomini nel lavoro nelle fabbriche. Anche i bambini furono spesso coinvolti nell'aiutare a casa o nei campi.<div><br></div><div>Operaie nelle fabbriche di munizioni (Germania, 1917).</div><div><br></div><div style='text-align:center;'><img src='img/donne.jpg' style='max-width:100%;'></div>"
         },
         {
           "yaw": 3.019282903648886,
@@ -214,7 +214,7 @@ var APP_DATA = {
           "yaw": -0.5577251847768281,
           "pitch": -0.0006652650892924328,
           "title": "Negozi",
-          "text": "La guerra rese più difficile procurarsi il cibo. In molte zone i prodotti scarseggiavano perché i trasporti erano interrotti e molti contadini erano stati richiamati al fronte. Le famiglie dovevano spesso fare economia e affrontare periodi di scarsità.<div><br><div>L'immagine mostra la prima mensa comunitaria della Salvation Army (Esercito della Salvezza) a Bermondsey (Londra, 1917).<div><br></div></div><div style='text-align:center;'><img src='img/fame.jpg' style='max-width:100%;'></div>"
+          "text": "La guerra rese più difficile procurarsi il cibo. In molte zone i prodotti scarseggiavano perché i trasporti erano interrotti e molti contadini erano stati richiamati al fronte. Le famiglie dovevano spesso fare economia e affrontare periodi di scarsità.<div><br><div>L'immagine mostra la prima mensa comunitaria della Salvation Army (Esercito della Salvezza) a Bermondsey (Londra, 1917).</div><div><br></div></div><div style='text-align:center;'><img src='img/fame.jpg' style='max-width:100%;'></div>"
         },
         {
           "yaw": 1.336923532575737,
